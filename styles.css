@@ -1,0 +1,20 @@
+nav{
+    background-color: #141E32;
+    margin-bottom: 30px;
+}
+.p2{
+    background-color: darkgray;
+    height: 175px;
+}
+h1,h2{
+    color: aliceblue;
+}
+.p4{
+    background-color: #141E32;
+    height: 85px;
+}
+section button{
+    height: 100px;
+    width: 150px;
+} 
+
